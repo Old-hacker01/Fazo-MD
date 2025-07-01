@@ -28,11 +28,10 @@ A feature-rich WhatsApp bot with MultiDevice (MD) support that can be easily dep
    ```bash
    pkg update && pkg upgrade
    pkg install nodejs git ffmpeg -y
-
-
-   git clone https://github.com/Old-          hacker01/FAZO-MD.git
+   pkg install nodejs git ffmpeg -y
+   pkg install nodejs git ffmpeg -y
+   git clone https://github.com/Oldhacker01/FAZO-MD.git
    cd FAZO-MD
-   npm install 
-   node index.js
+   npm install                                node index.js
 
 2.**Scan the QR code** with your WhatsApp account when prompted.
